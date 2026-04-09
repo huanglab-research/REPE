@@ -20,7 +20,7 @@ cd mmdetection
 pip install -v -e .
 pip install -r requirements/multimodal.txt
 pip install emoji ddd-dataset
-pip install git+https://github.com/lvis-dataset/lvis-api.git"
+pip install git+https://github.com/lvis-dataset/lvis-api.git
 ```
 
 ## Datasets:
